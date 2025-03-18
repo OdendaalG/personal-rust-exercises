@@ -1,0 +1,4 @@
+# Git ignore for Rust executables
+**/target/
+**/*.rs.bk
+/Cargo.lock
